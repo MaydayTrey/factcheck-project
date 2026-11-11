@@ -1,0 +1,1 @@
+This project incorporates hardware components, agentic coding, and API integration tooling to make it possible to fact check material in real-time. 
